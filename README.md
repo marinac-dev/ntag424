@@ -1,6 +1,10 @@
-# Ntag424
+# ! EARLY ALPHA ! 
 
-**TODO: Add description**
+- Contact me before using it - [nikola@regex.sh](mailto:nikola@regex-sh)
+
+## Ntag424
+
+WIP: Module for working with NTAG424 data
 
 ## Installation
 
