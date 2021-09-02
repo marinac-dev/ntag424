@@ -1,6 +1,6 @@
 # ! EARLY ALPHA ! 
 
-- Contact me before using it - [nikola@regex.sh](mailto:nikola@regex-sh)
+- Contact me before using it - [nikola@regex-sh.com](mailto:nikola@regex-sh.com)
 
 ## Ntag424
 
